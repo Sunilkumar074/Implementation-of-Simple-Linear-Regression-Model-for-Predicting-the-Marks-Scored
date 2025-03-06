@@ -71,9 +71,12 @@ df.head()
 
 df.tail()
 
-![image](https://github.com/user-attachments/assets/6fae29d6-d73c-486b-8ff8-30d706fd4ebd)
+![image](https://github.com/user-attachments/assets/e58b025c-3b44-42a6-a3b0-66a8bea4e365)
 
 Array value of X
+
+
+![image](https://github.com/user-attachments/assets/21a72b48-a269-4c4a-b93b-26c850813659)
 
 
 Array value of Y
